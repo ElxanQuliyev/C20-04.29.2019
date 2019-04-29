@@ -14,7 +14,6 @@
                             https://www.youtube.com/watch?v=roywYSEPSvc
                     </li>
                 </ol> 
-              
               </li>
           </ul>
           <i>Uğurlar</i>
